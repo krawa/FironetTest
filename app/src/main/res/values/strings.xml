@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fironet Test</string>
+    <string name="title_activity_maps">Fironet Test</string>
+    <string name="my_route">Мой маршрут</string>
+    <string name="google_route">Google маршрут</string>
+    <string name="dist_km">%.0f км</string>
+    <string name="error">Ошибка. Попробуйте еще раз.</string>
+</resources>
